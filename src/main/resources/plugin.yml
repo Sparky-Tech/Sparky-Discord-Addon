@@ -1,0 +1,7 @@
+name: DiscordAPI
+main: ac.sparky.addon.discord.Plugin
+version: 1.0
+author: Rhys
+description: Sparky Discord Webhook Addon
+depend:
+  - Sparky

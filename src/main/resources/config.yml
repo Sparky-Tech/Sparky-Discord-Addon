@@ -1,0 +1,10 @@
+Discord:
+  WebHook: "DISCORD_WEB_HOOK_URL"
+  Types:
+    Violations: true
+    Punishments: true
+  Violations:
+    Color: GREEN
+    AntiRateLimit: true
+  Punishments:
+    Color: RED
